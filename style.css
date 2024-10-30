@@ -453,7 +453,7 @@ svg {
 }
 
 .max-w-8xl {
-	max-width: 90rem
+	max-width: 100rem
 }
 
 .max-w-\[200px\] {
@@ -966,9 +966,17 @@ svg {
 	font-size: 1.875rem
 }
 
+.space {
+	margin-bottom: 5%;
+}
+
 .text-5xl {
 	font-size: 3rem;
 	line-height: 1
+}
+
+.text-5xl2 {
+	font-size: 2rem;
 }
 
 .text-lg {
